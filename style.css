@@ -25,7 +25,9 @@ body{
 }
 .donate{
     background: linear-gradient(orange, tomato);
-    border-radius: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 7px 7px 7px 7px;
 }
 .heading-line{
     text-align: center;
@@ -109,6 +111,7 @@ body{
     margin-right: 30px;
     background-color: #B3B3B3;
     padding: 8px 8px 8px 8px;
+    width: 260px;
 }
 .icon-family{
     background-color: antiquewhite;
@@ -155,12 +158,12 @@ body{
     width: 600px;
     height: 120px;
     padding-left: 200px;
-    margin-left: 330px;
+    margin-left: 230px;
     margin-top: 50px;
 }
 .email{
     background-color: #B3B3B3;
-    margin-top: 60px;
+    margin-top: 40px;
     width: 200px;
     height: 30px;
     border-radius: 5px;
@@ -170,6 +173,7 @@ body{
     width: 120px;
     height: 35px;
     border-radius: 5px;
+    margin-left: -10px;
 }
 .last-part{
     text-align: center;
