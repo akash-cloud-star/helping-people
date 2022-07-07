@@ -1,0 +1,185 @@
+body{
+    font-family: 'Arima', cursive;
+    margin: 0px;
+}
+.pic-add{
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    color: rgb(9, 243, 79);
+    padding-top: 60px;
+    font-size: 60px;
+}
+.start{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+.donate-now{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.donate{
+    background: linear-gradient(orange, tomato);
+    border-radius: 5px;
+}
+.heading-line{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 50px;
+}
+.information{
+    text-align: center;
+    color: black;
+}
+.money{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.money-one{
+    box-shadow: 15px 15px 15px 15px rgb(247, 242, 242);
+    width: 20%;
+    text-align: center;
+    background-color: gainsboro;
+}
+.money-two{
+    box-shadow: 15px 15px 15px 15px rgb(247, 242, 242) ;
+    width: 20%;
+    margin-left: 20px;
+    text-align: center;
+    background-color: gainsboro;
+}
+.money-three{
+    box-shadow: 15px 15px 15px 15px rgb(247, 242, 242) ;
+    width: 20%;
+    margin-left: 20px;
+    text-align: center;
+    background-color: gainsboro;
+}
+.money-four{
+    box-shadow: 15px 15px 15px 15px rgb(247, 242, 242) ;
+    width: 20%;
+    margin-left: 20px;
+    text-align: center;
+    background-color: gainsboro;
+}
+.money-five{
+    box-shadow: 15px 15px 15px 15px rgb(247, 242, 242) ;
+    width: 20%;
+    margin-left: 20px;
+    text-align: center;
+    background-color: gainsboro;
+}
+.amount-taka{
+        margin-bottom: 50px;
+        margin-top: 50px;
+        border-top-style: hidden;
+        border-left: hidden;
+        border-right-style: hidden;
+        border-bottom: 3px solid rgb(206, 203, 203);
+        width: 1277px;
+        text-align: center;
+        font-size: 20px;
+        color: #B3B3B3;
+    
+}
+.third-section{
+    text-align: center;
+    font-size: 27px;
+}
+.color{
+    color: black;
+}
+.donate-plan{
+    display: flex;
+    margin-left: 210px;
+    margin-right: 100px;
+}
+.icon-food{
+    margin-right: 30px;
+    background-color: aquamarine;
+    padding: 8px 8px 8px 8px;
+}
+.icon-shelter{
+    margin-right: 30px;
+    background-color: #B3B3B3;
+    padding: 8px 8px 8px 8px;
+}
+.icon-family{
+    background-color: antiquewhite;
+    padding: 8px 8px 8px 8px;
+}
+.donate-pic{
+   margin: 150px 150px 20px 150px;
+}
+.help-people{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.details{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.help{
+    display: flex;
+    margin-left: 400px;
+    margin-right: 500px;
+}
+.yes{
+    background-color: blue;
+    margin-right: 300px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 8px;
+    color: azure;
+}
+.no{
+    background-color: brown;
+    padding: 20px 20px 20px 20px;
+    border-radius: 8px;
+    color: azure;
+}
+.help--people{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+}
+.informations{
+    background-color: burlywood;
+    width: 600px;
+    height: 120px;
+    padding-left: 200px;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+.email{
+    background-color: #B3B3B3;
+    margin-top: 60px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+.subscribe{
+    background-color: rgb(240, 12, 12);
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+}
+.last-part{
+    text-align: center;
+    margin-top: 80px;
+    background-color: black;
+    color: aliceblue;
+    padding-bottom: 15px;
+    height: 100px;
+}
+.last-font-color{
+    color: chocolate;
+    padding-top: 10px;
+}
